@@ -72,7 +72,6 @@ ENCFF630PTQ (контроль) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/93148620/156219880-263469bc-cb89-4dcf-b989-ccc1cc02e7f1.png">
 </p>
 # Таблица со статистикой
-### 2. Таблица со статистикой
 
 |ChIP-seq                |ENCFF630ZFU       |ENCFF783XFU       |ENCFF630PTQ (контроль)|
 |:-----------------------|:----------------:|:----------------:|:--------------------:|
@@ -80,3 +79,12 @@ ENCFF630PTQ (контроль) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 |aligned exactly 1 time  | 865020 (2.97%)   | 2081885 (2.87%)  | 687330 (3.16%)       |
 |aligned >1 times        | 2685448 (9.22%)  | 7321165 (10.10%) | 2544401 (11.71%)     |
 |aligned 0 times         | 25571415 (87.81%)| 63063491 (87.02%)| 818489960 (85.12%)   |
+
+# Venn diagram
+<img width="523" alt="image" src="https://user-images.githubusercontent.com/93148620/156232118-07a3542a-b8c9-4020-a1c5-1d00412e618a.png">
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/93148620/156232085-15dd915d-8827-414e-9ef5-2009628caf31.png">
+<img width="513" alt="image" src="https://user-images.githubusercontent.com/93148620/156232168-3273b90c-d65d-49bb-ba37-b70151a87f5a.png">
+<img width="479" alt="image" src="https://user-images.githubusercontent.com/93148620/156232236-2a002cc9-761e-4e63-89b7-3579685c8019.png">
+
+
+
