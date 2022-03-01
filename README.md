@@ -72,6 +72,7 @@ ENCFF630PTQ (контроль) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/93148620/156219880-263469bc-cb89-4dcf-b989-ccc1cc02e7f1.png">
 </p>
 # Таблица со статистикой
+
 |ChIP-seq                |ENCFF630ZFU       |ENCFF783XFU       |ENCFF630PTQ (контроль)|
 |:-----------------------|:----------------:|:----------------:|:--------------------:|
 |TOTAL READS             | 29121883         | 72466541         |     21721691         |
