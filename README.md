@@ -16,6 +16,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="435" alt="image" src="https://user-images.githubusercontent.com/93148620/156215775-0eced36b-9bae-48c4-9536-0fbfbe7bac42.png"/>
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/93148620/156215807-3a036c43-491b-4072-a2e3-bc9e715605de.png"/>
 </p>
+
 # ENCFF630ZFU (реплика1) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
 <img width="291" alt="image" src="https://user-images.githubusercontent.com/93148620/156217812-9e6add22-afbd-42b2-b1bb-d0c52c795f62.png">
@@ -40,6 +41,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/93148620/156218449-890e4de6-898d-4b85-b603-b2706816e133.png">
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/93148620/156218516-38e1b88e-4eac-43d0-b930-f541cfd91768.png">
 </p>
+
 # ENCFF783XFU (реплика2) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
   <img width="292" alt="image" src="https://user-images.githubusercontent.com/93148620/156219039-7be4217c-abaa-47a8-85e9-0177ea4d1e56.png">
@@ -75,6 +77,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="435" alt="image" src="https://user-images.githubusercontent.com/93148620/156219858-0c125bcc-5319-438d-938a-d87e2ea113d8.png">
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/93148620/156219880-263469bc-cb89-4dcf-b989-ccc1cc02e7f1.png">
 </p>
+
 # Таблица со статистикой
 
 |ChIP-seq                |ENCFF630ZFU       |ENCFF783XFU       |ENCFF630PTQ (контроль)|
