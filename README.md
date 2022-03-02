@@ -5,7 +5,7 @@
 ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплика2), ENCFF630PTQ (контроль)
 # Отчеты FastQC:
 
-# ENCFF630ZFU (реплика1) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
+# 1. ENCFF630ZFU (реплика1) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
 <img width="141" alt="image" src="https://user-images.githubusercontent.com/93148620/156215869-f866fc9d-bbb1-404a-9518-4fa98670df52.png"/>
 <img width="254" alt="image" src="https://user-images.githubusercontent.com/93148620/156215222-e400e1e8-915e-4177-b8dc-4ebeaff699be.png"/>
@@ -30,7 +30,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 </p>
 
 
-# ENCFF783XFU (реплика2) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
+# 2. ENCFF783XFU (реплика2) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/93148620/156218252-09fbaa2a-56d0-42b5-9a6a-dffc014de115.png">
 <img width="103" alt="image" src="https://user-images.githubusercontent.com/93148620/156218277-307c89ea-d772-4420-a7e1-bbe67ebf4eea.png">
@@ -55,7 +55,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 </p>
 
 
-# ENCFF630PTQ (контроль) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
+# 3. ENCFF630PTQ (контроль) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
  <p float="left">
   <img width="250" alt="image" src="https://user-images.githubusercontent.com/93148620/156219397-c701ab36-b8ca-4fb8-b172-8c048156f3cc.png">
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/93148620/156219439-095f0ee5-66d4-4de7-8683-dba1da058ed4.png">
