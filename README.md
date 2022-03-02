@@ -16,7 +16,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="435" alt="image" src="https://user-images.githubusercontent.com/93148620/156215775-0eced36b-9bae-48c4-9536-0fbfbe7bac42.png"/>
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/93148620/156215807-3a036c43-491b-4072-a2e3-bc9e715605de.png"/>
 </p>
-видно попадание в красную зону
+На графике Per base sequence quality видно попадание ридов в красную зону, что требует провести подрезание.
 
 # ENCFF630ZFU (реплика1) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
@@ -29,7 +29,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/93148620/156218061-2d50ef04-4fcc-4b57-b2e3-cb7ea45c7acb.png">
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/93148620/156218134-64d05da0-0f48-4cb8-8d74-940a86eb3cf7.png">
 </p>
-стало лучше
+стало лучше, риды находятся в зеленой зоне.
 
 # 2. ENCFF783XFU (реплика2) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
@@ -80,6 +80,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/93148620/156219880-263469bc-cb89-4dcf-b989-ccc1cc02e7f1.png">
 </p>
 
+График Per base sequence quality показывает после подрезания хорошие результаты качества ридов во всех случаях.
 # Таблица со статистикой
 
 |ChIP-seq                |ENCFF630ZFU       |ENCFF783XFU       |ENCFF630PTQ (контроль)|
