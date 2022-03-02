@@ -4,7 +4,7 @@
 Для работы выбраны клеточная линия (MM.1S), гистоновая метка (H3K27ac) и файл контроля.
 ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплика2), ENCFF630PTQ (контроль)
 # Отчеты FastQC:
-
+Проанализировав выдачу fastqc, я произвела подрезание чтений во всех случаях . Для этого я  использовала trimmomatic.
 # 1. ENCFF630ZFU (реплика1) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
 <img width="141" alt="image" src="https://user-images.githubusercontent.com/93148620/156215869-f866fc9d-bbb1-404a-9518-4fa98670df52.png"/>
@@ -16,6 +16,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="435" alt="image" src="https://user-images.githubusercontent.com/93148620/156215775-0eced36b-9bae-48c4-9536-0fbfbe7bac42.png"/>
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/93148620/156215807-3a036c43-491b-4072-a2e3-bc9e715605de.png"/>
 </p>
+видно попадание в красную зону
 
 # ENCFF630ZFU (реплика1) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
@@ -28,7 +29,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/93148620/156218061-2d50ef04-4fcc-4b57-b2e3-cb7ea45c7acb.png">
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/93148620/156218134-64d05da0-0f48-4cb8-8d74-940a86eb3cf7.png">
 </p>
-
+стало лучше
 
 # 2. ENCFF783XFU (реплика2) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
@@ -66,6 +67,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/93148620/156219573-fffef0eb-46ec-44b6-9136-079c67aac174.png">
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/93148620/156219584-80e62041-54c7-4982-bcb2-0232b73b09fc.png">
 </p>
+
 # ENCFF630PTQ (контроль) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
   <img width="266" alt="image" src="https://user-images.githubusercontent.com/93148620/156219717-475aafbd-8596-4cfd-ad3b-b9d0e30d659c.png">
