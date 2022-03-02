@@ -5,7 +5,7 @@
 ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплика2), ENCFF630PTQ (контроль)
 # Отчеты FastQC:
 
-ENCFF630ZFU (реплика1) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
+# ENCFF630ZFU (реплика1) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
 <img width="141" alt="image" src="https://user-images.githubusercontent.com/93148620/156215869-f866fc9d-bbb1-404a-9518-4fa98670df52.png"/>
 <img width="254" alt="image" src="https://user-images.githubusercontent.com/93148620/156215222-e400e1e8-915e-4177-b8dc-4ebeaff699be.png"/>
@@ -16,7 +16,7 @@ ENCFF630ZFU (реплика1) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
 <img width="435" alt="image" src="https://user-images.githubusercontent.com/93148620/156215775-0eced36b-9bae-48c4-9536-0fbfbe7bac42.png"/>
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/93148620/156215807-3a036c43-491b-4072-a2e3-bc9e715605de.png"/>
 </p>
-ENCFF630ZFU (реплика1) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
+# ENCFF630ZFU (реплика1) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
 <img width="291" alt="image" src="https://user-images.githubusercontent.com/93148620/156217812-9e6add22-afbd-42b2-b1bb-d0c52c795f62.png">
 <img width="161" alt="image" src="https://user-images.githubusercontent.com/93148620/156217862-7d5e98a1-69e4-4810-a899-9f08a9144f40.png">
@@ -27,7 +27,9 @@ ENCFF630ZFU (реплика1) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/93148620/156218061-2d50ef04-4fcc-4b57-b2e3-cb7ea45c7acb.png">
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/93148620/156218134-64d05da0-0f48-4cb8-8d74-940a86eb3cf7.png">
 </p>
-ENCFF783XFU (реплика2) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
+
+
+# ENCFF783XFU (реплика2) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
 <img width="197" alt="image" src="https://user-images.githubusercontent.com/93148620/156218252-09fbaa2a-56d0-42b5-9a6a-dffc014de115.png">
 <img width="103" alt="image" src="https://user-images.githubusercontent.com/93148620/156218277-307c89ea-d772-4420-a7e1-bbe67ebf4eea.png">
@@ -38,7 +40,7 @@ ENCFF783XFU (реплика2) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
 <img width="328" alt="image" src="https://user-images.githubusercontent.com/93148620/156218449-890e4de6-898d-4b85-b603-b2706816e133.png">
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/93148620/156218516-38e1b88e-4eac-43d0-b930-f541cfd91768.png">
 </p>
-ENCFF783XFU (реплика2) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
+# ENCFF783XFU (реплика2) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
   <img width="292" alt="image" src="https://user-images.githubusercontent.com/93148620/156219039-7be4217c-abaa-47a8-85e9-0177ea4d1e56.png">
 <img width="151" alt="image" src="https://user-images.githubusercontent.com/93148620/156219066-7b6d5aba-f6cf-49af-b15f-06f6f85f5042.png">
@@ -49,7 +51,9 @@ ENCFF783XFU (реплика2) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/93148620/156219207-2057c73a-1b2e-421a-8169-0bc1ec23a2d8.png">
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/93148620/156219232-c4f137c9-b2fe-4d1f-b149-45e032a0faaa.png">
 </p>
- ENCFF630PTQ (контроль) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
+
+
+# ENCFF630PTQ (контроль) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
  <p float="left">
   <img width="250" alt="image" src="https://user-images.githubusercontent.com/93148620/156219397-c701ab36-b8ca-4fb8-b172-8c048156f3cc.png">
 <img width="140" alt="image" src="https://user-images.githubusercontent.com/93148620/156219439-095f0ee5-66d4-4de7-8683-dba1da058ed4.png">
@@ -60,7 +64,7 @@ ENCFF783XFU (реплика2) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/93148620/156219573-fffef0eb-46ec-44b6-9136-079c67aac174.png">
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/93148620/156219584-80e62041-54c7-4982-bcb2-0232b73b09fc.png">
 </p>
-ENCFF630PTQ (контроль) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
+# ENCFF630PTQ (контроль) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
   <img width="266" alt="image" src="https://user-images.githubusercontent.com/93148620/156219717-475aafbd-8596-4cfd-ad3b-b9d0e30d659c.png">
 <img width="137" alt="image" src="https://user-images.githubusercontent.com/93148620/156219749-e09d9e42-d529-4278-b1bd-2d7120b3ea8d.png">
