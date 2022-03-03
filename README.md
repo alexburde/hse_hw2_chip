@@ -29,7 +29,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/93148620/156218061-2d50ef04-4fcc-4b57-b2e3-cb7ea45c7acb.png">
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/93148620/156218134-64d05da0-0f48-4cb8-8d74-940a86eb3cf7.png">
 </p>
-стало лучше, риды находятся в зеленой зоне.
+стало значительно лучше, риды находятся в зеленой зоне.
 
 # 2. ENCFF783XFU (реплика2) ДО ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
