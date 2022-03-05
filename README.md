@@ -18,7 +18,7 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="435" alt="image" src="https://user-images.githubusercontent.com/93148620/156215775-0eced36b-9bae-48c4-9536-0fbfbe7bac42.png"/>
 <img width="449" alt="image" src="https://user-images.githubusercontent.com/93148620/156215807-3a036c43-491b-4072-a2e3-bc9e715605de.png"/>
 </p>
-Графики Per tile sequence quality и Per base sequence quality не прошли проверку качества. На графике Per base sequence quality видно попадание ридов в красную зону, что требует провести подрезание.
+Графики Per tile sequence quality и Per base sequence quality не прошли проверку качества. На графике Per base sequence quality видно попадание в красную зону, что требует провести подрезание.
 
 # ENCFF630ZFU (реплика1) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
@@ -72,6 +72,8 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/93148620/156219573-fffef0eb-46ec-44b6-9136-079c67aac174.png">
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/93148620/156219584-80e62041-54c7-4982-bcb2-0232b73b09fc.png">
 </p>
+
+Графики Per tile sequence quality и Per base sequence quality не прошли проверку качества. На графике Per base sequence quality видно попадание в красную зону (на графике Per base sequence quality), что требует провести подрезание.
 
 # ENCFF630PTQ (контроль) ПОСЛЕ ПОДРЕЗАНИЯ ЧТЕНИЙ
 <p float="left">
