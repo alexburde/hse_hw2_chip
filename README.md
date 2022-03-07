@@ -117,8 +117,8 @@ ID fastq файлов: ENCFF630ZFU (реплика1), ENCFF783XFU (реплик�
 
 ![result](https://user-images.githubusercontent.com/93148620/156791145-ae0e0cd2-d7ef-4376-be56-ef0724b9893b.png)
 
-
 https://doi.org/10.2217/epi-2018-0006
+
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/93148620/157113801-b428a7e3-2059-4fc8-a4d2-5ea16dd34734.png">
 
 
